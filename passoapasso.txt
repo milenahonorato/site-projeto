@@ -1,0 +1,13 @@
+Passos a seguir para finalizar o site do Projeto Inter.
+
+* Escolher um programa que todos tem conhecimento, caso precise alterar algo no código (ex: VSCode)
+* Criar o documento html básico, com título, subtítulo e opções que serão outras páginas futuras;
+* Criar o arquivo CSS;
+* Se não entender algo, pesquisar até entender como faz;
+* Criar um logotipo para o Projeto;
+* Criar o nome para o Projeto;
+* Criar um slogan para o Projeto;
+* Criar um repositório e vincular todos (ou a maioria) dos membros;
+* O repositório pode ser criado no Github;
+* Pode ser adicionados bootstrap de JS e CSS;
+* O site rodará diretamente na máquina;
